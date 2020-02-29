@@ -1,0 +1,35 @@
+{
+	"name": "sweet-vscode",
+	"displayName": "Sweet Vscode",
+	"description": "A dark and modern theme for vscode",
+	"version": "1.0.0",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#191925",
+		"theme": "dark"
+	},
+	"publisher": "EliverLara",
+	"author": {
+		"name": "ELiver Lara",
+		"url": "https://github.com/EliverLara",
+		"email": "eliverlara@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/EliverLara/sweet-vscode"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sweet vscode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color-theme-sweet.json"
+			}
+		]
+	}
+}
