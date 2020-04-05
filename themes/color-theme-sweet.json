@@ -264,7 +264,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#3F3F54"
+        "foreground": "#66667A"
       }
     },
     {
@@ -776,7 +776,7 @@
     {
       "scope": "punctuation.definition.comment",
       "settings": {
-        "foreground": "#3F3F54"
+        "foreground": "#66667A"
       }
     },
     {
