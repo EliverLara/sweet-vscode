@@ -2,7 +2,7 @@
 	"name": "sweet-vscode",
 	"displayName": "Sweet Vscode",
 	"description": "A dark and modern theme for vscode",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#191925",
